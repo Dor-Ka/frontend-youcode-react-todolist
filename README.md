@@ -1,7 +1,7 @@
 # To Do List - React
 
 ## Demo
-[Link to the page](https://dor-ka.github.io/todolist-react/)
+[Link to the page](https://dor-ka.github.io/frontend-youcode-react-todolist/)
 
 ## About
 
@@ -37,11 +37,11 @@ This project is a simple website created for practicing basic HTML, CSS, JavaScr
 - **useDispatch**: Dispatching actions to the Redux store.
 
 ## demo:
-![demo.img](https://github.com/DorotaKar/todolist-react/blob/main/public/img-readme.png)
+![demo.img](https://github.com/DorotaKar/frontend-youcode-react-todolist/blob/main/public/img-readme.png)
 
-![demo.img-mobile](https://github.com/DorotaKar/todolist-react/blob/main/public/img-readme-mobile.png)
+![demo.img-mobile](https://github.com/DorotaKar/frontend-youcode-react-todolist/blob/main/public/img-readme-mobile.png)
 
-![demo.search](https://github.com/DorotaKar/todolist-react/blob/main/public/img-readme-search.png)
+![demo.search](https://github.com/DorotaKar/frontend-youcode-react-todolist/blob/main/public/img-readme-search.png)
 
 
 ## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
